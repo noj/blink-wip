@@ -1,0 +1,2 @@
+exception Syntax of string
+
